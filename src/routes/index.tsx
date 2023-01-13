@@ -8,9 +8,10 @@ export default function Home() {
       <h1>Olá Teste !!!</h1>
       <Counter />
       <p>
-    
+      Visit{" "}
+      <hr/>
        
-        Visit{" "}
+        
         <a href="https://start.solidjs.com" target="_blank">
           start.solidjs.com
         </a>{" "}
