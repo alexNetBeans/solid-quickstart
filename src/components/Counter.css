@@ -1,9 +1,9 @@
 .increment {
-  font-family: inherit;
+  font-family: arial;
   font-size: inherit;
   padding: 1em 2em;
-  color: #335d92;
-  background-color: rgba(68, 107, 158, 0.1);
+  color: #cccccc;
+  background-color: #ff00ff;
   border-radius: 2em;
   border: 2px solid rgba(68, 107, 158, 0);
   outline: none;
