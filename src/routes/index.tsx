@@ -8,10 +8,8 @@ export default function Home() {
       <h1>Olá Teste !!!</h1>
       <Counter />
       <p>
-        Apenas um código de testes !!!
-        <hr/>
-        <input type="text" placeholder="Apenas teste">
-          
+    
+       
         Visit{" "}
         <a href="https://start.solidjs.com" target="_blank">
           start.solidjs.com
