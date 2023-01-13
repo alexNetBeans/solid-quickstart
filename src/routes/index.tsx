@@ -9,7 +9,7 @@ export default function Home() {
       <Counter />
       <p>
       Visit{" "}
-      <hr/>
+ 
        
         
         <a href="https://start.solidjs.com" target="_blank">
